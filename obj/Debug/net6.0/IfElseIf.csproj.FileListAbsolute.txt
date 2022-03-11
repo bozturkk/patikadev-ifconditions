@@ -1,0 +1,15 @@
+/Users/cokoprens/Desktop/PatikaDevPratikler/IfElseIf/bin/Debug/net6.0/IfElseIf
+/Users/cokoprens/Desktop/PatikaDevPratikler/IfElseIf/bin/Debug/net6.0/IfElseIf.deps.json
+/Users/cokoprens/Desktop/PatikaDevPratikler/IfElseIf/bin/Debug/net6.0/IfElseIf.runtimeconfig.json
+/Users/cokoprens/Desktop/PatikaDevPratikler/IfElseIf/bin/Debug/net6.0/IfElseIf.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/IfElseIf/bin/Debug/net6.0/IfElseIf.pdb
+/Users/cokoprens/Desktop/PatikaDevPratikler/IfElseIf/obj/Debug/net6.0/IfElseIf.csproj.AssemblyReference.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/IfElseIf/obj/Debug/net6.0/IfElseIf.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cokoprens/Desktop/PatikaDevPratikler/IfElseIf/obj/Debug/net6.0/IfElseIf.AssemblyInfoInputs.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/IfElseIf/obj/Debug/net6.0/IfElseIf.AssemblyInfo.cs
+/Users/cokoprens/Desktop/PatikaDevPratikler/IfElseIf/obj/Debug/net6.0/IfElseIf.csproj.CoreCompileInputs.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/IfElseIf/obj/Debug/net6.0/IfElseIf.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/IfElseIf/obj/Debug/net6.0/refint/IfElseIf.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/IfElseIf/obj/Debug/net6.0/IfElseIf.pdb
+/Users/cokoprens/Desktop/PatikaDevPratikler/IfElseIf/obj/Debug/net6.0/IfElseIf.genruntimeconfig.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/IfElseIf/obj/Debug/net6.0/ref/IfElseIf.dll
